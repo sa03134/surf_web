@@ -10,6 +10,7 @@
 
 	<ul>
 		<li><a href="<%= request.getContextPath()%>/member/index.jsp">멤버 관리 페이지</a></li>
+		<li><a href="<%= request.getContextPath()%>/surfing/index.jsp">서핑</a></li>
 	</ul>
 </body>
 </html>
